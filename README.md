@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 你好，我是林灿
+广东工业大学计算机学院24级学生，来自广东汕头。
 
-<!--
-**Lincan-gdut/Lincan-gdut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 个人简介
+- 共青团第十九次全国代表大会代表、共青团广东省第十五次代表大会代表
+- 十五运会开幕式志愿者
+- 校团委校园文化部部长、辅导员助理、校龙狮团团长
+- 热爱醒狮与传统武术，多次参加武术赛事并获得金奖，积极参与社会实践、志愿服务活动
 
-Here are some ideas to get you started:
+## 💻 专业学习
+主攻计算机方向，认真学习软件工程课程，重视代码规范与工程实践思维。
+曾获优秀学生一等奖学金，参与中国国际大学生创新大赛广东省分赛，获得省级银奖。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 仓库说明
+> 本仓库为GitHub Profile特殊主页仓库。
+软件工程课程作业、编程练习代码会在后续新建仓库提交更新。
